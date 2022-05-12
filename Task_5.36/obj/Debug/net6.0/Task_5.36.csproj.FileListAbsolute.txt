@@ -1,0 +1,15 @@
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\bin\Debug\net6.0\Task_5.36.exe
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\bin\Debug\net6.0\Task_5.36.deps.json
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\bin\Debug\net6.0\Task_5.36.runtimeconfig.json
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\bin\Debug\net6.0\Task_5.36.dll
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\bin\Debug\net6.0\Task_5.36.pdb
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.csproj.AssemblyReference.cache
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.AssemblyInfoInputs.cache
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.AssemblyInfo.cs
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.csproj.CoreCompileInputs.cache
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.dll
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\refint\Task_5.36.dll
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.pdb
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\Task_5.36.genruntimeconfig.cache
+C:\Users\orochi\Desktop\Examples\Examples_5\Task_5.36\obj\Debug\net6.0\ref\Task_5.36.dll
